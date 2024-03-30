@@ -41,7 +41,7 @@ in_store = False
 check_crossed = 3
 MAX_SPEED = 3 #5
 ACCELERATION = 0.1 #0.2
-dinero = 1000
+dinero = 0
 
 ventaja = False
 desventaja = True
